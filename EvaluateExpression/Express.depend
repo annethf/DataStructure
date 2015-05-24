@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429154172 source:e:\express\main.cpp
+	<iostream>
+	<list>
+	<stack>
+

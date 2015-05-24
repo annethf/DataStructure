@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427697695 source:e:\huffmancoding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<string.h>
+
